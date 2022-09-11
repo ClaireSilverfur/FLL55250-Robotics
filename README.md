@@ -8,7 +8,7 @@ Home repo for FLL55250 Robotics team.
 |Teng Lara|\*|
 |Gao Yifei|\*|
 |Jiang Aiden|\*|
-|Wang Claire|\*|
+|Silverfur|\*|
 
 
 ## Function repo
